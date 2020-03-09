@@ -1,0 +1,1 @@
+This folder contains images of the user with there sub folder. Which need to br train. Exemple public_dataset/abcuser
